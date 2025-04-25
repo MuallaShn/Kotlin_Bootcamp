@@ -15,7 +15,7 @@ class Fonksiyonlar {
     }
 
     //parametre
-    fun selamla3(isim:String,){
+    fun selamla3(isim:String){
         val sonuc = "Merhaba $isim"
         println(sonuc)
     }
