@@ -1,5 +1,7 @@
 package com.example.kotlin_dersleri_bootcamp.odevler
 
+import com.example.kotlin_dersleri_bootcamp.odevler.Odev2.Odev2
+
 fun main() {
 
     val o = Odev2()
