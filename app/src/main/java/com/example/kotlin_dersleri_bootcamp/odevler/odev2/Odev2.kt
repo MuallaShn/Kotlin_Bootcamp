@@ -1,4 +1,4 @@
-package com.example.kotlin_dersleri_bootcamp.odevler.Odev2
+package com.example.kotlin_dersleri_bootcamp.odevler.odev2
 
 class Odev2 {
 
