@@ -1,0 +1,12 @@
+<resources>
+<string name="app_name">HİKAYE</string>
+<string name="bookDowload">Kitabı indir</string>
+<string name="likeButton">60 kişi beğendi</string>
+<string name="watchCount">980 saat</string>
+<string name="readerCount">980 okuyucu</string>
+<string name="cartoon">Çocuk Hikayeleri</string>
+<string name="writer">Bu hikaye Lizzie, M. Ed. tarafından yazılmıştır.</string>
+<string name="header">Orman Dostları ile Tatlı Bir Macera!!!</string>
+<string name="summary">Yaz güneşi parlıyor ve sevimli dostlarımız Panda, Tilki, Tavşan ve Ayıcık ormanın derinliklerinde yepyeni bir maceraya çıkıyor! Bu kitapta çocuklar, Panda ile sabırlı olmayı, Tilki ile zekice düşünmeyi, Tavşan ile arkadaşça paylaşmayı ve Ayıcık ile cesur adımlar atmayı öğreniyor. Renkli çizimler, sıcacık hikâyeler ve tatlı karakterlerle dolu bu kitap, minik okurlara değerli yaşam derslerini eğlenceli bir şekilde sunuyor.</string>
+
+</resources>
