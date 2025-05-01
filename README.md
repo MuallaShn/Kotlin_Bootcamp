@@ -8,8 +8,6 @@ Her klasör, ayrı bir proje veya ödevi temsil eder.
 
 Bu projede basit bir pizza menüsü ekranı tasarlandı. Kullanıcı pizza seçip sepete ekleyebiliyor.
 
-## 🎨 Tasarım Çalışması - Pizza Uygulaması
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/eba40894-669c-4c7d-b5cc-a03ad7509c5c" alt="Etli Peynirli" width="200"/>
   &nbsp;&nbsp;&nbsp;
