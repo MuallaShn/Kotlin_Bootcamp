@@ -29,14 +29,11 @@ Uygulamada çocuklara uygun renkli arayüzler, eğlenceli karakter görselleri v
 
 özelliklerinin yer aldığı bir tasarım gerçekleştirilmiştir.
 
----
-
-### 📱 Uygulama Görselleri
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ed4aaf77-a864-4964-b637-80c35a748422" alt="Gündüz Modu" width="45%" />
+  <img src="https://github.com/user-attachments/assets/ed4aaf77-a864-4964-b637-80c35a748422" alt="Gündüz Modu" width="200" />
   &nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/ff05445e-dfff-42b2-956a-2a1acc13d352" alt="Gece Modu" width="45%" />
+  <img src="https://github.com/user-attachments/assets/ff05445e-dfff-42b2-956a-2a1acc13d352" alt="Gece Modu" width="200" />
 </p>
 
 > Türkçe ve İngilizce versiyonlarıyla gündüz/gece temalı çocuk hikayeleri uygulama tasarımı.
