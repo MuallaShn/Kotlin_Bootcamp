@@ -8,11 +8,15 @@ Her klasör, ayrı bir proje veya ödevi temsil eder.
 
 Bu projede basit bir pizza menüsü ekranı tasarlandı. Kullanıcı pizza seçip sepete ekleyebiliyor.
 
-### Türkçe Versiyon
-![tasarimCalismasi2](https://github.com/user-attachments/assets/eba40894-669c-4c7d-b5cc-a03ad7509c5c)
+## 🎨 Tasarım Çalışması - Pizza Uygulaması
 
-### English Version
-![tasarimCalismasi1](https://github.com/user-attachments/assets/bbd3d00b-94f0-40bd-b904-832e9e070100)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/eba40894-669c-4c7d-b5cc-a03ad7509c5c" alt="Etli Peynirli" width="200"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/bbd3d00b-94f0-40bd-b904-832e9e070100" alt="Beef Cheese" width="200"/>
+</p>
 
-> Android uygulama tasarımı pratiği için hazırlanmıştır.
+> Türkçe ve İngilizce versiyonlarıyla Pizza menü tasarımı.
+
+
 
