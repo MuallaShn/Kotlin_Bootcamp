@@ -18,9 +18,7 @@ Bu projede basit bir pizza menüsü ekranı tasarlandı. Kullanıcı pizza seçi
 
 ## 🎨 Tasarım Çalışması Ödevi - Çocuk Hikayeleri Uygulaması
 
-Bu proje, Kotlin dilinde geliştirilen çocuklara yönelik hikaye uygulamasının temel tasarım çalışmasını içermektedir.  
-Uygulamada çocuklara uygun renkli arayüzler, eğlenceli karakter görselleri ve hikaye tanıtım bölümleriyle birlikte:
-
+Bu projede:
 - Renk Tanımlama  
 - Font Kullanımı  
 - Çoklu Dil Desteği  
