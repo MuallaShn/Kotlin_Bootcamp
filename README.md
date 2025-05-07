@@ -33,10 +33,13 @@ Bu projede:
   <img src="https://github.com/user-attachments/assets/ff05445e-dfff-42b2-956a-2a1acc13d352" alt="Gece Modu" width="200" />
 </p>
 
-## 🎨 Navigation Component Çalışması
-fragmentler arasında navigation component kullanarak geçişler sağlandı. Aynı zamanda sayfa Y için backstack özelliği kullanılarak geri tuşuna basıldığında direkt anasayfaya geçiş sağlandı
+## 🧭 Navigation Component Çalışması
 
-![image](https://github.com/user-attachments/assets/8a0b947a-8f29-4371-a1f9-48ba3b76e00f)
+Bu çalışmada:
+-Fragmentler arası geçişler Navigation Component ile sağlandı.
+-Sayfa Y'den geri tuşuna basıldığında doğrudan Ana Sayfa'ya dönüş için backstack yönetimi uygulandı.
+
+<p align="center"> <img src="https://github.com/user-attachments/assets/8a0b947a-8f29-4371-a1f9-48ba3b76e00f" alt="Navigation Component Örneği" width="300" /> </p>
 
 
 
