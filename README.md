@@ -36,5 +36,7 @@ Bu projede:
 ## 🎨 Navigation Component Çalışması
 fragmentler arasında navigation component kullanarak geçişler sağlandı. Aynı zamanda sayfa Y için backstack özelliği kullanılarak geri tuşuna basıldığında direkt anasayfaya geçiş sağlandı
 
+![image](https://github.com/user-attachments/assets/8a0b947a-8f29-4371-a1f9-48ba3b76e00f)
+
 
 
