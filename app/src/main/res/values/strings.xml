@@ -1,3 +1,9 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">Kotlin_Dersleri_Bootcamp</string>
+=======
+    <string name="app_name">Bitirme_proje</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+>>>>>>> bbfde3d (Bitirme branch'ine proje dosyaları yüklendi)
 </resources>

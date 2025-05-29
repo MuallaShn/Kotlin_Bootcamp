@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp"
+    app:cardCornerRadius="12dp"
+    app:cardElevation="4dp">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="12dp">
+
+        <ImageButton
+            android:id="@+id/favoriButton"
+            android:layout_width="28dp"
+            android:layout_height="28dp"
+            android:backgroundTint="@android:color/transparent"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:src="@drawable/ic_baseline_favorite_border_24"
+            app:tint="@android:color/holo_red_dark"
+            android:contentDescription="Favorilere ekle"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginTop="4dp"
+            android:layout_marginEnd="4dp"/>
+
+
+        <!-- Yemek Resmi -->
+        <ImageView
+            android:id="@+id/yemekResim"
+            android:layout_width="0dp"
+            android:layout_height="100dp"
+            android:adjustViewBounds="true"
+            android:scaleType="centerInside"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <!-- Yemek Adı -->
+        <TextView
+            android:id="@+id/yemekAdi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="Yemek Adı"
+            android:textColor="#333333"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/yemekResim" />
+
+        <!-- ✅ Fiyat + Sepet Butonunu yatay hizala -->
+        <LinearLayout
+            android:id="@+id/fiyatVeButonLayout"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="6dp"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            app:layout_constraintTop_toBottomOf="@id/yemekAdi"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent">
+
+            <!-- Fiyat -->
+            <TextView
+                android:id="@+id/yemekFiyat"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="30 ₺"
+                android:textColor="#555555"
+                android:textSize="16sp"
+                android:layout_marginStart="5dp" />
+
+            <!-- Buton -->
+            <Button
+                android:id="@+id/sepeteEkleButton"
+                android:layout_width="wrap_content"
+                android:layout_height="35dp"
+                android:layout_marginEnd="5dp"
+                android:backgroundTint="@color/orange"
+                android:text="Sepet"
+                android:textColor="@android:color/white"
+                android:textSize="12sp"
+                android:paddingLeft="12dp"
+                android:paddingRight="12dp"
+                android:minWidth="0dp"
+                android:minHeight="0dp"
+                android:fontFamily="sans-serif-medium"
+                app:cornerRadius="20dp"
+                android:textStyle="bold"/>
+
+
+
+
+        </LinearLayout>
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</com.google.android.material.card.MaterialCardView>
