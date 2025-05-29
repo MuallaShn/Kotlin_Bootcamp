@@ -2,5 +2,10 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+<<<<<<< HEAD
+=======
+    <mapping directory="$PROJECT_DIR$/Kotlin_Bootcamp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Kotlin_Bootcamp/Kotlin_Bootcamp" vcs="Git" />
+>>>>>>> bbfde3d (Bitirme branch'ine proje dosyaları yüklendi)
   </component>
 </project>

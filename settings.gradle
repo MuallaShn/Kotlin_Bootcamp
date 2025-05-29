@@ -12,5 +12,9 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
+<<<<<<< HEAD
 rootProject.name = "Kotlin_Dersleri_Bootcamp"
+=======
+rootProject.name = "Bitirme_proje"
+>>>>>>> bbfde3d (Bitirme branch'ine proje dosyaları yüklendi)
 include ':app'
