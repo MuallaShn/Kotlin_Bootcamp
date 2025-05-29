@@ -41,5 +41,11 @@ Bu çalışmada:
 
 <p align="center"> <img src="https://github.com/user-attachments/assets/8a0b947a-8f29-4371-a1f9-48ba3b76e00f" alt="Navigation Component Örneği" width="600" /> </p>
 
+## Bitirme Projesi
+![image](https://github.com/user-attachments/assets/61632afd-19ee-4126-98e4-d58c961ea788)
+![image](https://github.com/user-attachments/assets/58ad66c1-7dec-4133-9b21-54aeab50923a)
+
+
+
 
 
