@@ -45,7 +45,7 @@ Bu çalışmada:
 <p align="center">
   <img src="https://github.com/user-attachments/assets/61632afd-19ee-4126-98e4-d58c961ea788" alt="Gündüz Modu" width="200" />
   &nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/58ad66c1-7dec-4133-9b21-54aeab50923a" alt="Gece Modu" width="200" />
+  <img src="![image](https://github.com/user-attachments/assets/4b8889c3-4429-4254-9239-02c85d77d1f5)" alt="Gece Modu" width="200" />
 </p>
 
 
